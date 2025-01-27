@@ -1,6 +1,4 @@
 ## Hi there 👋
-I’m currently student in uni!
-I would like to learn a lot, so I will be glad for your help. Later I will add more information about myself,Thanks!
 
 <!--
 **purpeetc/purpeetc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
